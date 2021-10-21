@@ -1,2 +1,2 @@
 # SLMholography
-Putting Holograms on a Spatial Light Modulator (SLM) for Quantum Imaging.
+Python Code for Holograms on a Spatial Light Modulator (SLM) for Quantum Imaging.
